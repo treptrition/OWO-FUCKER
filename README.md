@@ -2,7 +2,7 @@
 
 HOW TO USE OWO MINER:
 
-Open https://replit.com and create a reple. Click on IMPRT FROM GITHUB 
+Open https://replit.com and create a reple. Click on IMPORT FROM GITHUB 
 Paste this link https://github.com/treptrition/OWO-FUCKER
 Then click on IMPORT 
 After importing go to Config.js file.  
