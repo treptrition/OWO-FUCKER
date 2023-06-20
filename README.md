@@ -1,5 +1,15 @@
 # OWO-MINER 2023
 
+
+FEATURES:
+- ANTI BAN
+- 24/7 ONLINE
+- HELP SUPPORT
+- CUSTOM COMMANDS
+
+
+
+
 HOW TO USE OWO MINER:
 
 Open https://replit.com and create a reple. Click on IMPORT FROM GITHUB 
