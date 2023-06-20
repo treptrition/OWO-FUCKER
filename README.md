@@ -3,7 +3,7 @@
 HOW TO USE OWO MINER:
 
 Open https://replit.com and create a reple. Click on IMPORT FROM GITHUB 
-Paste this link https://github.com/treptrition/OWO-FUCKER
+Paste this link https://https://github.com/treptrition/OWO-MINER-2023
 Then click on IMPORT 
 After importing go to Config.js file.  
 Provide your Discord ID's token and Channel id in which you want the self bot to work.  (WARNING: DON'T SHARE YOUR TOKEN WITH ANYONE)
