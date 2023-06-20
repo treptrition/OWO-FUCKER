@@ -12,6 +12,6 @@ Provide your Discord ID's token and Channel id in which you want the self bot to
 SAVE IT AND THEN CLICK ON RUN 
 
 
-TO MAKE THE BOT 24/7 ONLINE 
+TO MAKE THE BOT 24/7 ONLINE -------------
 Copy the webveiwer link and then go to https://uptimerobot.com 
 Click on add new monitor and select the type as ---- https://  then paste the link in the link section and create the monitor.
